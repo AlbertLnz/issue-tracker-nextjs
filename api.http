@@ -1,0 +1,8 @@
+### POST: Create 1 issue
+POST http://localhost:3000/api/issues
+Content-Type: application/json
+
+{
+    "title": "First issue",
+    "description": "Description of the 1st issue"
+}
