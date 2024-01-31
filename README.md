@@ -1,3 +1,13 @@
+# Issue Tracker
+
+### Web Browser
+![image](https://github.com/AlbertLnz/issue-tracker-nextjs/assets/120119395/67375896-2e00-423d-8eaf-dc8352f26733)
+
+### Database (MariaDB)
+![image](https://github.com/AlbertLnz/issue-tracker-nextjs/assets/120119395/fcad98a1-1d21-424d-bb38-043d125f807a)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
